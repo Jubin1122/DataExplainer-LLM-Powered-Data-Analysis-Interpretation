@@ -217,4 +217,6 @@ Use a small warmup call after loading to avoid a slow first generation:
 
 ``_ = llm.create_completion(prompt="Hi", max_tokens=1)``
 
+Full Forecast explanation Pipeline: [Forecast_explanation_pipeline](Forecast_explanation_pipeline.py) 
+
 
